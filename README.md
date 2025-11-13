@@ -39,3 +39,4 @@ These insights can help the bank:
 ## Conclusion
 Strategic targetng and data-driven decisions can significantly boost campaign performance and 
 customer engagement.
+[https://medium.com/@kekelibeddy1553/a-data-driven-approach-to-understand-customer-conversion-in-banking-1b3556e3cea7]
